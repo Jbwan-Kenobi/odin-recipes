@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(13, 166, 226);
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 125px;
+    font-weight: bold;
+    text-align: center;
+}
+
+body {
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+ul li {
+    color: orangered;
+    text-align: center;
+}
+
+a {
+    color: orangered
+}

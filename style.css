@@ -4,6 +4,7 @@ h1 {
     font-size: 125px;
     font-weight: bold;
     text-align: center;
+    margin-top: 10px;
 }
 
 body {
@@ -11,13 +12,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
     text-align: center;
+    margin: 10px;
 }
 
-ul li {
+li {
     color: orangered;
-    text-align: center;
+    margin-bottom: 50px;
 }
 
 a {
-    color: orangered
+    color: orangered;
 }
